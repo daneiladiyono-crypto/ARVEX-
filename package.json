@@ -1,0 +1,9 @@
+{
+  "name": "arvex-family-selection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ARVEX FAMILY TikTok nickname verification site",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
